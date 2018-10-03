@@ -44,7 +44,7 @@
 + [Observer/Event](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer)
 + [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
 ### 单一职责：
-+ Decorator
++ [Decorator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator)
 + Bridge
 ### 对象创建:
 + Factory Method
