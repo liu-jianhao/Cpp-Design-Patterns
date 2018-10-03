@@ -37,3 +37,37 @@
   + 不将变量类型声明为某个特定的具体类，而是声明为某个接口。
   + 客户程序无需获知对象的具体类型，只需要知道对象所具有的接口。
   + 减少系统中各部分的依赖关系，从而实现“高内聚、松耦合”的类型设计方案。
+
+## 从封装变化角度对模式分类
+### 组件协作：
++ Template Method
++ Observer / Event
++ Strategy
+### 单一职责：
++ Decorator
++ Bridge
+### 对象创建:
++ Factory Method
++ Abstract Factory
++ Prototype
++ Builder
+### 对象性能：
++ Singleton
++ Flyweight
+### 接口隔离:
++ Façade
++ Proxy
++ Mediator
++ Adapter
+### 状态变化：
++ Memento
++ State
+### 数据结构：
++ Composite
++ Iterator
++ Chain of Resposibility
+### 行为变化：
++ Command
++ Visitor
+### 领域问题：
++ Interpreter
