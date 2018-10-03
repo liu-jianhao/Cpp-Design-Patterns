@@ -42,7 +42,7 @@
 ### 组件协作：
 + [Template Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template%20Method)
 + Observer / Event
-+ Strategy
++ [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
 ### 单一职责：
 + Decorator
 + Bridge
