@@ -47,7 +47,7 @@
 + [Decorator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator)
 + [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
-+ Factory Method
++ [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
 + Abstract Factory
 + Prototype
 + Builder
