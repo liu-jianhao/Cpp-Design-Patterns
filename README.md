@@ -49,7 +49,7 @@
 ### 对象创建:
 + [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
 + [Abstract Factory](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
-+ Prototype
++ [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
 + Builder
 ### 对象性能：
 + Singleton
