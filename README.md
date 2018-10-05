@@ -53,7 +53,7 @@
 + [Builder](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Builder)
 ### 对象性能：
 + [Singleton](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Singleton)
-+ Flyweight
++ [Flyweight](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Flyweight)
 ### 接口隔离:
 + Façade
 + Proxy
