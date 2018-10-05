@@ -52,7 +52,7 @@
 + [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
 + [Builder](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Builder)
 ### 对象性能：
-+ Singleton
++ [Singleton](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Singleton)
 + Flyweight
 ### 接口隔离:
 + Façade
