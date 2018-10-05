@@ -50,7 +50,7 @@
 + [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
 + [Abstract Factory](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
 + [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
-+ Builder
++ [Builder](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Builder)
 ### 对象性能：
 + Singleton
 + Flyweight
