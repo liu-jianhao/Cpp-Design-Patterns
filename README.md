@@ -56,7 +56,7 @@
 + [Flyweight(享元模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Flyweight)
 ### 接口隔离:
 + [Façade(门面模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Facade)
-+ Proxy
++ [Proxy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Proxy)
 + Mediator
 + Adapter
 ### 状态变化：
