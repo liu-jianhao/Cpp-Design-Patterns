@@ -57,7 +57,7 @@
 ### 接口隔离:
 + [Façade(门面模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Facade)
 + [Proxy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Proxy)
-+ Mediator
++ [Mediator(中介者)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Mediator)
 + [Adapter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Adapter)
 ### 状态变化：
 + Memento
