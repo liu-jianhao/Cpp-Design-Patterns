@@ -58,7 +58,7 @@
 + [Façade(门面模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Facade)
 + [Proxy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Proxy)
 + Mediator
-+ Adapter
++ [Adapter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Adapter)
 ### 状态变化：
 + Memento
 + State
