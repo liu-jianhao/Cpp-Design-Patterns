@@ -60,7 +60,7 @@
 + [Mediator(中介者)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Mediator)
 + [Adapter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Adapter)
 ### 状态变化：
-+ Memento
++ [Memento(备忘录)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Memento)
 + [State](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/State)
 ### 数据结构：
 + Composite
