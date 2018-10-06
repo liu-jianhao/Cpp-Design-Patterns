@@ -61,7 +61,7 @@
 + [Adapter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Adapter)
 ### 状态变化：
 + Memento
-+ State
++ [State](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/State)
 ### 数据结构：
 + Composite
 + Iterator
