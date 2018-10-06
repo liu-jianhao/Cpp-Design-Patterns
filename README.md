@@ -67,7 +67,7 @@
 + [Iterator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Iterator)
 + [Chain of Resposibility(职责链)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
 ### 行为变化：
-+ Command
-+ Visitor
++ [Command](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Command)
++ [Visitor](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Vistor)
 ### 领域问题：
-+ Interpreter
++ [Interpreter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Interpreter)
