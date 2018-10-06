@@ -65,7 +65,7 @@
 ### 数据结构：
 + [Composite(组合模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Composite)
 + [Iterator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Iterator)
-+ Chain of Resposibility
++ [Chain of Resposibility(职责链)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
 ### 行为变化：
 + Command
 + Visitor
