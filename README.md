@@ -64,7 +64,7 @@
 + [State](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/State)
 ### 数据结构：
 + [Composite(组合模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Composite)
-+ Iterator
++ [Iterator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Iterator)
 + Chain of Resposibility
 ### 行为变化：
 + Command
