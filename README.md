@@ -63,7 +63,7 @@
 + [Memento(备忘录)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Memento)
 + [State](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/State)
 ### 数据结构：
-+ Composite
++ [Composite(组合模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Composite)
 + Iterator
 + Chain of Resposibility
 ### 行为变化：
