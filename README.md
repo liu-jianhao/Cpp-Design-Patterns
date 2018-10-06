@@ -71,3 +71,15 @@
 + [Visitor](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Visitor)
 ### 领域问题：
 + [Interpreter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Interpreter)
+
+
+## 总结
+### 现代较少用的模式
++ Builder
++ Mediator
++ Memento
++ Iterator
++ Chain of Resposibility
++ Command
++ Visitor
++ Interpreter
