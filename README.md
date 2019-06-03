@@ -42,6 +42,7 @@
 ### 组件协作：
 + [Template Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template%20Method)
 + [Observer/Event](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer)
++ [Observer(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer-Pattern)
 + [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
 + [Strategy(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
 ### 单一职责：
