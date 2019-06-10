@@ -47,6 +47,7 @@
 + [Strategy(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
 ### 单一职责：
 + [Decorator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator)
++ [Decorator(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
 + [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
 + [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
