@@ -41,6 +41,7 @@
 ## 从封装变化角度对模式分类
 ### 组件协作：
 + [Template Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template%20Method)
++ [Template-Pattern(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template-Pattern)
 + [Observer/Event](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer)
 + [Observer(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer-Pattern)
 + [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
